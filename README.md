@@ -1,11 +1,10 @@
-﻿
-=========================================================================================
-	A.P.B. - Versión: 1.0.0b 
-=========================================================================================
+BALLS ATTACK 
+============
+Versión: 1.0.0b
 
+![ScreenShot](https://raw.github.com/jhcasado/screenshots/master/Balls_Attack/apb_01.png)
 
 0. EQUIPO RECOMENDADO
-
    * Windows 95/98 o superior
    * Pentium 233MHz o superior 
    * Tarjeta de Vídeo con 4MB compatible con DirectX 8.0 
@@ -20,7 +19,7 @@
    como servidor y el otro se conectará a él, momento en el que comenzará la partida.
    Para saber cuales son las reglas consultar el fichero Reglas.pdf incluido en esta 
    misma carpeta.
- 	
+
 
 2. PARTIDA NORMAL
 
@@ -28,10 +27,10 @@
    red local (usando el protocolo TCP/IP), y en cada uno de ellos el programa ejecutado. 
    Elegiremos un jugador, que actuará como servidor, y otro que buscará la partida:
 
-	A) El servidor pulsa sobre el botón NUEVO, creando la partida, y queda a la espera
+		a) El servidor pulsa sobre el botón NUEVO, creando la partida, y queda a la espera
            de que el otro jugador se conecte.
 
-	B) El segundo jugador pulsa el botón BUSCAR, y empieza a buscar partidas creadas.
+		b) El segundo jugador pulsa el botón BUSCAR, y empieza a buscar partidas creadas.
 
       Transcurridos unos segundos comienza la partida, que termina cuando algunos de los dos 
    jugadores gane, momento en el que retornaremos al menú principal. Si que queremos volver
@@ -44,9 +43,9 @@
       Para llevar a cabo una partida en el modo exhibición, donde jugaremos contra nosotros
    mismos, debemos:
 	
-	A) Pulsar F5 para desactivar la red.
+		a) Pulsar F5 para desactivar la red.
 
-	B) Pulsar sobre los botones NUEVO o BUSCAR.
+		b) Pulsar sobre los botones NUEVO o BUSCAR.
 
       Si alguno de los dos jugadores gana volvemos al menú principal. Para desactivar el modo 
    de exhibición debemos pulsar de nuevo F5.
@@ -60,11 +59,17 @@
 	
 5. AUTORES
     
-   José Angel Montelongo Reyes
-   Javier Honorio Casado Fernández
-   Gustavo Adolfo Negrín
+   Javier Honorio Casado Fernández  
+   José Angel Montelongo Reyes  
+   Gustavo Adolfo Negrín  
 
 
-   Multimedia
-   Universidad de Las Palmas de Gran Canaria	
+6. SCREENSHOTS
+
+   ![ScreenShot](https://raw.github.com/jhcasado/screenshots/master/Balls_Attack/apb_02.png)
+   ![ScreenShot](https://raw.github.com/jhcasado/screenshots/master/Balls_Attack/apb_03.png)
+   ![ScreenShot](https://raw.github.com/jhcasado/screenshots/master/Balls_Attack/apb_04.png)
+
+Multimedia  
+Universidad de Las Palmas de Gran Canaria	
 
